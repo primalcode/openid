@@ -6,3 +6,11 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
+# 環境変数情報
+.env
+
+.idea/**/misc.xml
+.idea/**/modules.xml
+.idea/**/openid.iml
+.idea/**/vcs.xml
